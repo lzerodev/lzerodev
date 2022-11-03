@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Leandro Neves - Data Scientist B.Tech graduated and Dev by heart.
 - 🌱 Currently learning more about Javascript and Python
-- 
 - 📫 How to reach me - ds.leandroneves@gmail.com
 
 ## 🏆 GitHub Trophy
