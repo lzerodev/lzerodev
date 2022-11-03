@@ -1,7 +1,8 @@
+![github profile banner](https://user-images.githubusercontent.com/117116536/199622446-a4c279e5-1a7e-4f09-a5fd-21a3a23e23eb.jpg)
+
 - 👋 Hi, I’m Leandro Neves - Data Scientist B.Tech graduated and Dev by heart.
 - 🌱 Currently learning more about Javascript and Python
-
-
+- 
 - 📫 How to reach me - ds.leandroneves@gmail.com
 
 ## 🏆 GitHub Trophy
