@@ -1,4 +1,7 @@
-![github profile banner](https://user-images.githubusercontent.com/117116536/199622446-a4c279e5-1a7e-4f09-a5fd-21a3a23e23eb.jpg)
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="500" src="https://user-images.githubusercontent.com/117116536/199622446-a4c279e5-1a7e-4f09-a5fd-21a3a23e23eb.jpg" alt="Einsten Quote" align="center">
+</p>
+<h1 align="center" style="margin-top: 0px;">Leandro Neves</h1>
 
 - 👋 Hi, I’m Leandro Neves - Data Scientist B.Tech graduated and Dev by heart.
 - 🌱 Currently learning more about Javascript and Python
