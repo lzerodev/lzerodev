@@ -7,6 +7,11 @@
 - 🌱 Currently learning more about Javascript and Python
 - 📫 How to reach me - ds.leandroneves@gmail.com
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lzerodev/count.svg" />
+</p>
+
 ## 🏆 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lzerodev&theme=onedark&row=1&column=6)](https://github.com/lzerodev/github-profile-trophy) 
