@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" style="margin-top: 0px;">Leandro Neves</h1>
 
-- 👋 Hi, I’m Leandro Neves - Data Scientist B.Tech graduated and Dev by heart.
+- 👋 Hi, I’m Leandro Neves - Data Scientist B.Tech graduated and enthusiast developer.
 - 🌱 Currently learning more about Javascript and Python
 - 📫 How to reach me - ds.leandroneves@gmail.com
 
