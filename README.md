@@ -1,6 +1,3 @@
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="500" src="https://user-images.githubusercontent.com/117116536/199622446-a4c279e5-1a7e-4f09-a5fd-21a3a23e23eb.jpg" alt="Einsten Quote" align="center">
-</p>
 <h1 align="center" style="margin-top: 0px;">Leandro Neves</h1>
 
 - 👋 Hi, I’m Leandro Neves - Data Scientist B.Tech graduated and enthusiast developer.
@@ -31,6 +28,7 @@
 ## 📱 Mobile Development
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 
 ## ⚙ Backend Development 
 
@@ -63,3 +61,7 @@
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="500" src="https://user-images.githubusercontent.com/117116536/199622446-a4c279e5-1a7e-4f09-a5fd-21a3a23e23eb.jpg" alt="Einsten Quote" align="center">
+</p>
