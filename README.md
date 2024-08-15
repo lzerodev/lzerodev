@@ -62,7 +62,4 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ## 
-
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="500" src="https://user-images.githubusercontent.com/117116536/199622446-a4c279e5-1a7e-4f09-a5fd-21a3a23e23eb.jpg" alt="Einsten Quote" align="center">
-</p>
+[![roadmap.sh](https://roadmap.sh/card/tall/66bd1de091320df4bdcb2a09?variant=dark&roadmaps=flutter)](https://roadmap.sh)
