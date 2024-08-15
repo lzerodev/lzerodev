@@ -62,4 +62,4 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ## 
-[![roadmap.sh](https://roadmap.sh/card/wide/66bd1de091320df4bdcb2a09?variant=dark&roadmaps=react%2Cnodejs%2Ctypescript%2Cflutter)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66bd1de091320df4bdcb2a09?variant=dark&roadmaps=react%2Cnodejs%2Ctypescript%2Cflutter)](https://roadmap.sh) [![roadmap.sh](https://roadmap.sh/card/wide/66bd1de091320df4bdcb2a09?variant=dark&roadmaps=data-analyst%2Cpython%2Cai-data-scientist%2Csql)](https://roadmap.sh)
