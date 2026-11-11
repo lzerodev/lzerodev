@@ -1,5 +1,3 @@
-<h1 align="center">Olá, eu sou o Leandro Neves 👋</h1>
-
 <p align="center">
   <strong>Desenvolvimento de software · Dados · Inteligência artificial · MarTech</strong><br>
   Software development · Data · Artificial intelligence · MarTech
